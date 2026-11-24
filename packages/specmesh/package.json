@@ -1,0 +1,7 @@
+{
+  "name": "@companion/specmesh",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": "./src/core.ts"
+}
